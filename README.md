@@ -17,3 +17,4 @@ EC2 Instance → CloudWatch Metrics → CloudWatch Alarm → SNS → Email Alert
 
 ## Test Command
 stress --cpu 2 --timeout 300
+
