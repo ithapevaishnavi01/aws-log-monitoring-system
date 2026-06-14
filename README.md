@@ -1,5 +1,6 @@
 # AWS Log Monitoring System
 
+
 This project demonstrates how to monitor EC2 instances using AWS CloudWatch and send alerts using SNS.
 
 ## AWS Services Used
